@@ -1,3 +1,4 @@
-# Saturn-Rings-and-Moons
+# SaturnRingsMoons
 Information for analysis of Rings and Small Moons
-This 
+
+This repository contains information about the JWST analysis of Saturn's rings and small moons
