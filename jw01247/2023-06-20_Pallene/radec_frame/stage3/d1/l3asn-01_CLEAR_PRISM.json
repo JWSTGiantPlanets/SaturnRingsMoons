@@ -1,0 +1,23 @@
+{
+    "asn_type": "None",
+    "asn_rule": "DMS_Level3_Base",
+    "version_id": null,
+    "code_version": "1.10.2",
+    "degraded_status": "No known degraded exposures in association.",
+    "program": "noprogram",
+    "constraints": "No constraints",
+    "asn_id": "a3001",
+    "target": "none",
+    "asn_pool": "none",
+    "products": [
+        {
+            "name": "Level3_01",
+            "members": [
+                {
+                    "expname": "/data/nemesis/jwst/NIRSPEC_IFU/2023-06-20_Pallene/radec_frame/stage2/jw01247318001_03101_00001_nrs1_cal.fits",
+                    "exptype": "science"
+                }
+            ]
+        }
+    ]
+}
