@@ -11,5 +11,7 @@ JW1247_RingMIRISpec_public.ipynb is the Jupyter notebook containing the code for
 
 The files Mastrapa2009.txt,methonespecplot2_tab_0112224.txt and solar_spec.fits contain optical constants of water ice, Cassini-VIMS Methone spectrum  and solar spectrum used in these programs.
 
-zip file jw01128_SNAP.zip contains the spectral cubes of the SNAP-2 refernece star and needs to be unzipped to be read by the Jupyter notebooks
+directory jw01128-SNAP2 contains the spectral cubes of the SNAP-2 refernece star.
+
+directory jw01247 contains the spectral cubes of the rings and planet used by the various Jupyter notebooks.
 
